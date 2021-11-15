@@ -1,0 +1,24 @@
+{
+  "name": "dui_pro_meta",
+  "version": "1.0.0",
+  "description": "js ts utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyiyong/duiProMeta.git"
+  },
+  "keywords": [
+    "ts",
+    "js",
+    "utils"
+  ],
+  "author": "duiY3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuyiyong/duiProMeta/issues"
+  },
+  "homepage": "https://github.com/yuyiyong/duiProMeta#readme"
+}
